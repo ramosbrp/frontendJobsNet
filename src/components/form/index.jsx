@@ -31,7 +31,7 @@ export function Form() {
     async function submitForm(e) {
         e.preventDefault();
         try {
-            const result = await axios.post(`https://ramosjobsnet.herokuapp.com/register`, {
+            await axios.post(`https://ramosjobsnet.herokuapp.com/register`, {
                 name,
                 profession,
                 date,
