@@ -49,7 +49,7 @@ export function Home ()  {
                         <span>Cadastrar Currículo!</span>
                     </button>
                     
-                    <small style={{ marginTop:'100px' }} >Copyright ©&nbsp;jobsNET 2021</small>
+                    <small style={{ marginTop:'100px' }} >Copyright ©&nbsp;Bruno Ramos 2021</small>
                 </div>
             </section>
        
